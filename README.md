@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @WhyCitrus
-- This repository is for records of My solution for some Kaggle ML projects
+- This repository is to record some of My solutions for ML internship projects
 
 
