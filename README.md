@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @WhyCitrus
-- This repository is to record some of My solutions for ML internship projects
+--- 沉淀，记录心得和一些项目
 
 
